@@ -1,5 +1,5 @@
 .idea
 .vscode
-/geekshop/__pycache__/*.pyc
-/mainapp/__pycache__/*.pyc
+__pycache__/
 db.sqlite3
+media
